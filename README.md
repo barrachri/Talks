@@ -1,6 +1,7 @@
 # Collection of Talks
 
-* [Let's talk about MLOps](mlops)
+* [Let's talk about MLOps](/mlops)
+* [Microservices from the trenches](/microservice_from_the_trenches)
 * [Jupyter Intro](/jupyter-intro)
-* [Kung Fu Pandas]()
-* [A story called Microbit:Polska]()
+* [Kung Fu Pandas](/kung_fu_pandas)
+* [A story called Microbit:Polska](/A_story_called_Microbit_Polska)
