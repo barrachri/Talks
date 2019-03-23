@@ -1,5 +1,6 @@
-Collection of Talks
+# Collection of Talks
 
-* Jupyter Intro
-* Kung Fu Pandas
-* A story called Microbit:Polska
+* [Let's talk about MLOps](mlops)
+* [Jupyter Intro](/jupyter-intro)
+* [Kung Fu Pandas]()
+* [A story called Microbit:Polska]()
