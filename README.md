@@ -1,4 +1,4 @@
-# Collection of Talks
+# Collection of talks and workshops
 
 * [Let's talk about MLOps](/mlops)
 * [Microservices from the trenches](/microservice_from_the_trenches)
