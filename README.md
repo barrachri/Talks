@@ -1,5 +1,6 @@
 # Collection of talks and workshops
 
+* [Growing vegetables with Python](/growing_vegetables_with_python)
 * [Let's talk about MLOps](/mlops)
 * [Microservices from the trenches](/microservice_from_the_trenches)
 * [Jupyter Intro](/jupyter-intro)
