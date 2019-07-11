@@ -1,6 +1,6 @@
 # Collection of talks and workshops
 
-* [Growing vegetables with Python](/growing_vegetables_with_python)
+* [How software can feed the World](/how_software_can_feed_the_world)
 * [Let's talk about MLOps](/mlops)
 * [Microservices from the trenches](/microservice_from_the_trenches)
 * [Jupyter Intro](/jupyter-intro)

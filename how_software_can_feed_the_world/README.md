@@ -1,4 +1,6 @@
-# Growing vegetables with Python
+# How software can feed the World
+
+![image](/how_software_can_feed_the_world/page.png)
 
 ## Abstract
 
@@ -10,9 +12,7 @@ More than 10 million observations recorded from our farms, rapidly increasing gi
 
 During this talk I will introduce our IoT infrastructure, software architecture, how we use python and how we plan to improve the capabilities of our farms by adding edge machine learning.
 
-## Agenda
-
 ## Conferences
 
+- EuroPython 2019
 - PyCon Italia X
-- PyCon CZ 2019
