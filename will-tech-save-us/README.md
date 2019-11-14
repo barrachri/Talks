@@ -4,7 +4,8 @@
 
 ## Abstract
 
-> The new problems are not the consequences of incidental failure but of technological success
+> The new problems are not the consequences of incidental failure but of technological success.
+> Ernst f. Schumacher
 
 As such will tech save us?
 
